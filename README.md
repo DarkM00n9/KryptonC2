@@ -89,3 +89,4 @@ https://github.com/CirqueiraDev/KryptonC2/assets/118860604/39c37798-fba0-4d95-94
   [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@cirqueiradev)
   <a href="https://t.me/CirqueiraDev"><img src="https://img.shields.io/badge/Telegram-0078FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Tiktok"></a>
 </div>
+# BotNet
